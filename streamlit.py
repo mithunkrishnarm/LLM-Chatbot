@@ -49,7 +49,7 @@ FASTAPI_URL = "http://localhost:8001"
 CHAT_ENDPOINT = f"{FASTAPI_URL}/chat"
 
 # --- Streamlit UI Setup ---
-st.markdown("<h1 style='text-align:center; color:#6366f1;'>💬 Mithun Kichu's AI Assistant</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align:center; color:#6366f1;'>👨 Mithun Kichu's AI Assistant</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align:center; color:#64748b;'>Ask anything! I am here to help you.</p>", unsafe_allow_html=True)
 
 # Sidebar styling and clear button
